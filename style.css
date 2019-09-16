@@ -37,6 +37,7 @@ label[for="female"] {
     background-position: 0 -32px;
     line-height: 24px;
     cursor: pointer;
+    transition: all .3s ease-out;
 } 
 
 input:checked + label[for="male"],
